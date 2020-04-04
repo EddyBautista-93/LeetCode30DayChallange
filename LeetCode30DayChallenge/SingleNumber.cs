@@ -13,10 +13,10 @@ namespace LeetCode30DayChallenge
 
             return x;
         }
-        static void Main(string[] args)
-        {
-            int[] dayOne = new int[] { 2, 2, 1 };
-            Console.WriteLine(SingleNumberDayOne(dayOne));
-        }
+        //static void Main(string[] args)
+        //{
+        //    int[] dayOne = new int[] { 2, 2, 1 };
+        //    Console.WriteLine(SingleNumberDayOne(dayOne));
+        //}
     }
 }
